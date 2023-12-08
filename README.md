@@ -4,7 +4,8 @@ Overview | Explanation | Suggestion
 
 **Overview of the Project**
 
-<img width="597" alt="image" src="https://github.com/Imranxdata/Powerbi_Sales_Dashbaord/assets/153188263/281c8cce-19f3-4b82-b8d5-6f256217d8ad">
+<img width="594" alt="image" src="https://github.com/Imranxdata/Powerbi_Sales_Dashbaord/assets/153188263/75773fb4-19a5-40b1-bff5-f9057aada450">
+
 
 The project is a sales dashboard that provides an overview of the sales performance of a company. The dashboard is divided into three rows and four columns. The top row has three graphs: "Monthly Profit by YoY", "Sum of Sales by Category", and "Monthly Sales by YoY". The middle row has two graphs: "Top 3 Sub-Category by sales" and "Sum of Sales by Segment and Payment Mode". The bottom row has two graphs: "Sum of Sales by Order Date Sales forecast for 21 days" and "United States Sum of Sales by State". The dashboard has a black background with white text. The graphs and charts are in red, blue, and green colors.
 
